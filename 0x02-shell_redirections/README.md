@@ -3,3 +3,5 @@ Hello, World
 Script for displaying confused smiley
 Display the content of a file
 Display the content of /etc/passwd and /etc/hosts
+Display the last 10 lines of /etc/passwd
+Display the first 10 lines of /etc/passwd
